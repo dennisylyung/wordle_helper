@@ -1,7 +1,6 @@
 # Wordle Helper
 A program to find better words for solving [Wordle](powerlanguage.co.uk) puzzles.
-
-![image](https://user-images.githubusercontent.com/16577014/149848388-b9081cd1-2731-4b61-831d-f4536f88d421.png)
+![image](https://user-images.githubusercontent.com/16577014/149848610-9d3cc7bc-2524-4dca-bbf2-934db3262b25.png)
 
 ## Warning
 This program takes the fun out of Wordle puzzles. 
