@@ -12,6 +12,8 @@ This program uses statistics in a word list to make better guesses in a Wordle p
 
 Currently, it simply ranks words by frequencies characters appear in specific places.
 
+A demo version is also included to let the helper guess a word you pick. 
+
 ## Getting Started
 ### Prerequisites
 Python 3.9+
@@ -20,7 +22,9 @@ Python 3.9+
 2. Run `pip install -r requirements.txt` in the directory.
 3. Run `python load_words.py` to download words.
 #### Usage
-Run `python wordle_helper.py`.
+To get help playing wordle, run `python wordle_helper.py`.
+
+To let the helper guess your word, run `python wordle_demo.py`
 
 ## Credits
 Word list from [dwyl/english-words](https://github.com/dwyl/english-words)
